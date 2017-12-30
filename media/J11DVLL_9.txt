@@ -1,0 +1,39 @@
+********************Parsing logfile C:\Djangosrv\media\out901.xml started********************
+System serial number: J11DVLL
+RAID serial number: SK65213487 firmware: 24.9.0-0026
+Board serial number: Y010UF72N04H
+PSU1 serial number:  K105172H1A8
+PSU2 serial number:  K105172H19V
+Backplane serial number: Y010RW6C91HT
+Drive slot:500605B00CA42C70_62_6 P/N: HUSMR3240ASS201 serial: 51V07SJXP4J5P4J5P4J5
+Drive slot:500605B00CA42C70_62_7 P/N: HUSMR3240ASS201 serial: 51V0819XP4J5P4J5P4J5
+Drive slot:500605B00CA42C70_62_0 P/N: ST600MM0208 serial: W0M01X5VL5A2L5A2L5A2
+Drive slot:500605B00CA42C70_62_1 P/N: ST600MM0208 serial: W0M0249DL5A2L5A2L5A2
+Ethernet device: Broadcom Ethernet Device (08:94:EF:3F:E6:08) firmware: 1.43
+Ethernet device: Broadcom Ethernet Device (08:94:EF:3F:E6:09) firmware: 1.43
+Ethernet device: Broadcom Ethernet Device (08:94:EF:3F:E6:0A) firmware: 1.43
+Ethernet device: Broadcom Ethernet Device (08:94:EF:3F:E6:0B) firmware: 1.43
+========================================
+PCI device: System peripheral: Intel Corporation Device 6f28 (rev 01)
+PCI device: System peripheral: Intel Corporation Device 6f29 (rev 01)
+PCI device: System peripheral: Intel Corporation Device 6f2a (rev 01)
+PCI device: PIC: Intel Corporation Device 6f2c (rev 01)
+PCI device: Unassigned class [ff00]: Intel Corporation Wellsburg SPSR (rev 05)
+PCI device: USB controller: Intel Corporation Wellsburg USB xHCI Host Controller (rev 05)
+PCI device: Communication controller: Intel Corporation Wellsburg MEI Controller #1 (rev 05)
+PCI device: Communication controller: Intel Corporation Wellsburg MEI Controller #2 (rev 05)
+PCI device: USB controller: Intel Corporation Wellsburg USB Enhanced Host Controller #2 (rev 05)
+PCI device: USB controller: Intel Corporation Wellsburg USB Enhanced Host Controller #1 (rev 05)
+PCI device: SMBus: Intel Corporation Wellsburg SMBus Controller (rev 05)
+PCI device: Signal processing controller: Intel Corporation Wellsburg Thermal Subsystem (rev 05)
+PCI device: RAID bus controller: LSI Logic / Symbios Logic MegaRAID SAS-3 3108 [Invader] (rev 02)
+PCI device: System peripheral: Intel Corporation Device 6f28 (rev 01)
+PCI device: System peripheral: Intel Corporation Device 6f29 (rev 01)
+PCI device: System peripheral: Intel Corporation Device 6f2a (rev 01)
+PCI device: PIC: Intel Corporation Device 6f2c (rev 01)
+PCI device: VGA compatible controller: Matrox Electronics Systems Ltd. G200eR2 (rev 01)
+PCI device: Unassigned class [ff00]: Renesas Technology Corp. Device 001b
+PCI device: Ethernet controller: Broadcom Corporation NetXtreme BCM5719 Gigabit Ethernet PCIe (rev 01)
+PCI device: Ethernet controller: Broadcom Corporation NetXtreme BCM5719 Gigabit Ethernet PCIe (rev 01)
+PCI device: Ethernet controller: Broadcom Corporation NetXtreme BCM5719 Gigabit Ethernet PCIe (rev 01)
+PCI device: Ethernet controller: Broadcom Corporation NetXtreme BCM5719 Gigabit Ethernet PCIe (rev 01)

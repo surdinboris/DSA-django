@@ -1,0 +1,8 @@
+********************Parsing logfile C:\Djangosrv\media\out400.xml started********************
+System serial number: J11DLTG
+RAID serial number: [] firmware: []
+Board serial number: Y010UF72N020
+PSU1 serial number:  K1181727131
+PSU2 serial number:  K118172716L
+Backplane serial number: Y010UF69K119
+========================================
